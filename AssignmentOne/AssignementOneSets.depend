@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1520277785 source:c:\users\abdullah zameek\c++ programs\assignementonesets\main.cpp
+	<iostream>
+	"Set.h"
+
+1520278911 c:\users\abdullah zameek\c++ programs\assignementonesets\set.h
+	<iostream>
+	<ostream>
+
+1520279446 source:c:\users\abdullah zameek\c++ programs\assignementonesets\set.cpp
+	<iostream>
+	<ostream>
+	"Set.h"
+
