@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1520116884 source:c:\users\abdullah zameek\c++ programs\intlinkedlist\intlist.cpp
+	<iostream>
+	"intNode.h"
+	"intList.h"
+
+1520145602 c:\users\abdullah zameek\c++ programs\intlinkedlist\intnode.h
+	<stdio.h>
+	<ostream>
+
+1520102730 c:\users\abdullah zameek\c++ programs\intlinkedlist\intlist.h
+	"intNode.h"
+
+1519846383 source:c:\users\abdullah zameek\c++ programs\intlinkedlist\intnode.cpp
+	"intNode.h"
+
+1520103109 source:c:\users\abdullah zameek\c++ programs\intlinkedlist\main.cpp
+	<iostream>
+	"intList.h"
+	"intNode.h"
+
