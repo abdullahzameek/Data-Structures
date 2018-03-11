@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1520799235 source:c:\users\abdullah zameek\c++ programs\doublelinkedlist\dlist.cpp
+	"DList.h"
+	"DNode.h"
+	<iostream>
+
+1520799066 c:\users\abdullah zameek\c++ programs\doublelinkedlist\dlist.h
+	"DNode.h"
+
+1520613334 c:\users\abdullah zameek\c++ programs\doublelinkedlist\dnode.h
+	<stdio.h>
+	<ostream>
+
+1520611270 source:c:\users\abdullah zameek\c++ programs\doublelinkedlist\dnode.cpp
+	"DNode.h"
+
+1520798860 source:c:\users\abdullah zameek\c++ programs\doublelinkedlist\main.cpp
+	"DList.h"
+	"DNode.h"
+	<iostream>
+
