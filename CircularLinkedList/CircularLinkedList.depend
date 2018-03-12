@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1520867169 source:c:\users\abdullah zameek\c++ programs\circularlinkedlist\clist.cpp
+	<iostream>
+	"CNode.h"
+	"CList.h"
+
+1520858547 c:\users\abdullah zameek\c++ programs\circularlinkedlist\cnode.h
+
+1520860366 c:\users\abdullah zameek\c++ programs\circularlinkedlist\clist.h
+	"CNode.h"
+
+1520858852 source:c:\users\abdullah zameek\c++ programs\circularlinkedlist\cnode.cpp
+	"CNode.h"
+
+1520867168 source:c:\users\abdullah zameek\c++ programs\circularlinkedlist\main.cpp
+	<iostream>
+	"CList.h"
+	"CNode.h"
+
