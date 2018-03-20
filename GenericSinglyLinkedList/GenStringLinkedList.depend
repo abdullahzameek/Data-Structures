@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1521568417 source:c:\users\abdullah zameek\c++ programs\genstringlinkedlist\genlist.cpp
+	"genList.h"
+	"genNode.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1521568272 c:\users\abdullah zameek\c++ programs\genstringlinkedlist\genlist.h
+	"genNode.h"
+
+1521567952 c:\users\abdullah zameek\c++ programs\genstringlinkedlist\gennode.h
+	"genList.h"
+
+1521568606 source:c:\users\abdullah zameek\c++ programs\genstringlinkedlist\main.cpp
+	<iostream>
+	"genList.h"
+	"genNode.h"
+
+1521567736 source:c:\users\abdullah zameek\c++ programs\genstringlinkedlist\gennode.cpp
+	"genNode.h"
+	"genList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
