@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521387321 source:c:\users\abdullah zameek\c++ programs\intstack\main.cpp
+	<iostream>
+	"IntStack.h"
+	<iostream>
+
+1521387134 c:\users\abdullah zameek\c++ programs\intstack\intstack.h
+
+1521387369 source:c:\users\abdullah zameek\c++ programs\intstack\intstack.cpp
+	"IntStack.h"
+	<iostream>
+
