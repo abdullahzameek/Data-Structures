@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521571570 source:c:\users\abdullah zameek\c++ programs\templatedstack\main.cpp
+	<iostream>
+	"TemplatedStack.h"
+
+1521571095 c:\users\abdullah zameek\c++ programs\templatedstack\templatedstack.h
+
+1521571601 source:c:\users\abdullah zameek\c++ programs\templatedstack\templatedstack.cpp
+	"TemplatedStack.h"
+	<iostream>
+
