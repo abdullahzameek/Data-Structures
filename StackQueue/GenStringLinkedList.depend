@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1521568417 source:c:\users\abdullah zameek\c++ programs\genstringlinkedlist\genlist.cpp
+	"genList.h"
+	"genNode.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1521568272 c:\users\abdullah zameek\c++ programs\genstringlinkedlist\genlist.h
+	"genNode.h"
+
+1521567952 c:\users\abdullah zameek\c++ programs\genstringlinkedlist\gennode.h
+	"genList.h"
+
+1521568606 source:c:\users\abdullah zameek\c++ programs\genstringlinkedlist\main.cpp
+	<iostream>
+	"genList.h"
+	"genNode.h"
+
+1521567736 source:c:\users\abdullah zameek\c++ programs\genstringlinkedlist\gennode.cpp
+	"genNode.h"
+	"genList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1521568417 source:c:\users\abdullah zameek\c++ programs\linkedstack\genlist.cpp
+	"genList.h"
+	"genNode.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1521568272 c:\users\abdullah zameek\c++ programs\linkedstack\genlist.h
+	"genNode.h"
+
+1521567952 c:\users\abdullah zameek\c++ programs\linkedstack\gennode.h
+	"genList.h"
+
+1521658393 source:c:\users\abdullah zameek\c++ programs\linkedstack\gennode.cpp
+	"genNode.h"
+	"genList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1521725496 source:c:\users\abdullah zameek\c++ programs\linkedstack\linkedstack.cpp
+	"LinkedStack.h"
+	"genNode.h"
+	"genList.h"
+	<iostream>
+
+1521729740 c:\users\abdullah zameek\c++ programs\linkedstack\linkedstack.h
+	"genList.h"
+	"genNode.h"
+	<iostream>
+
+1521727934 source:c:\users\abdullah zameek\c++ programs\linkedstack\main.cpp
+	<iostream>
+	"genList.h"
+	"genNode.h"
+	"LinkedStack.h"
+
+1521658393 source:c:\users\abdullah zameek\c++ programs\queuelinkedstack\gennode.cpp
+	"genNode.h"
+	"genList.h"
+	<stdio.h>
+	<stdlib.h>
+	<string>
+
+1521567952 c:\users\abdullah zameek\c++ programs\queuelinkedstack\gennode.h
+	"genList.h"
+
+1521747127 c:\users\abdullah zameek\c++ programs\queuelinkedstack\genlist.h
+	"genNode.h"
+
+1521747199 source:c:\users\abdullah zameek\c++ programs\queuelinkedstack\genlist.cpp
+	"genList.h"
+	"genNode.h"
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1521747244 source:c:\users\abdullah zameek\c++ programs\queuelinkedstack\linkedstack.cpp
+	"LinkedStack.h"
+	"genNode.h"
+	"genList.h"
+	<iostream>
+
+1521746846 c:\users\abdullah zameek\c++ programs\queuelinkedstack\linkedstack.h
+	"genList.h"
+	"genNode.h"
+	<iostream>
+
+1521747964 source:c:\users\abdullah zameek\c++ programs\queuelinkedstack\main.cpp
+	<iostream>
+	"genList.h"
+	"genNode.h"
+	"LinkedStack.h"
+	"StackQueue.h"
+
+1521746570 c:\users\abdullah zameek\c++ programs\queuelinkedstack\stackqueue.h
+	<iostream>
+	"LinkedStack.h"
+	"genNode.h"
+	"genList.h"
+
+1521748085 source:c:\users\abdullah zameek\c++ programs\queuelinkedstack\stackqueue.cpp
+	<iostream>
+	"LinkedStack.h"
+	"genNode.h"
+	"genList.h"
+	"StackQueue.h"
+
