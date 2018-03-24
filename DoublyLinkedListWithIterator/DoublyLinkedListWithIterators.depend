@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1521922602 source:c:\users\abdullah zameek\c++ programs\doublylinkedlistwithiterators\dll.cpp
+	"DLL.h"
+	<iostream>
+
+1521920633 c:\users\abdullah zameek\c++ programs\doublylinkedlistwithiterators\dll.h
+
+1521920662 source:c:\users\abdullah zameek\c++ programs\doublylinkedlistwithiterators\main.cpp
+	<iostream>
+	"DLL.h"
+
